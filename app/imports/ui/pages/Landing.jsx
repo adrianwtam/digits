@@ -10,7 +10,7 @@ class Landing extends React.Component {
           <Grid container centered stackable columns={3}>
 
             <Grid.Column width={4}>
-              <Icon color="white" size="huge" name="users"/>
+              <Icon size="huge" name="users"/>
               <Header as="h1" inverted>Multiple Users</Header>
               <Header as="h3" inverted>This address book enables any number of users to register and save their business contacts.You can only see the contacts you have created</Header>
 
