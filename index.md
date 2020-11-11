@@ -1,4 +1,4 @@
-<img src="doc/Landing.png">
+<img src="doc/landing.png">
 ## Overview
 This is a mini project with basic capabilities such as:
 - Data Collection/ Display (Mongo)
